@@ -1,4 +1,4 @@
-# test-app
+# guess-the-capital
 
 ## Project setup
 ```
